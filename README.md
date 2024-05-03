@@ -2,6 +2,7 @@
 Steam Database
 
 Getting the program started
+ 
  -You must enter the root password for your local system in the   “password” parameter at line 6 in SteamDatabase.py
     -This allows the use of mySQL with Python
  -You can then run the program normally with command “python SteamDatabase.py” in the terminal (or your typical method for running py).
