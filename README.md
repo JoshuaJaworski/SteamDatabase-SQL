@@ -5,8 +5,8 @@
     -This allows the use of mySQL with Python  
  -You can then run the program normally with command “python SteamDatabase.py” in the terminal (or your typical method for running py).
 ## Once running  
- -Entering 1 will allow you to login as a previously registered account.  
-    -My account will have initial data associated with it.  
+ - Entering 1 will allow you to login as a previously registered account.  
+    * My account will have initial data associated with it.  
         -Email: jaws  
         -Password: a  
  -Entering 2 will allow you to create a new account. You will be prompted to enter a username, email, and password. Once created the account will be loaded with a balance of $1,000, but no other data associated with it.  
